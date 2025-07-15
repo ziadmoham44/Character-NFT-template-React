@@ -66,6 +66,6 @@ By deploying this project, you’ll gain hands-on experience with:
 
 ---
 
-![NFTForge Architecture](nftgorge.png)
+![Alt text](nftgorge.png)
 
 > Built with ❤️ for the next generation of digital creators.
