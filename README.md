@@ -68,4 +68,4 @@ By deploying this project, you’ll gain hands-on experience with:
 
 ![Logo](nftforge.png)
 
-> Built with ❤️ for the next generation of digital creators.
+
